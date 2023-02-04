@@ -1,0 +1,15 @@
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Hierarchical Inheritance\bin\Debug\net6.0\Hierarchical Inheritance.exe
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Hierarchical Inheritance\bin\Debug\net6.0\Hierarchical Inheritance.deps.json
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Hierarchical Inheritance\bin\Debug\net6.0\Hierarchical Inheritance.runtimeconfig.json
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Hierarchical Inheritance\bin\Debug\net6.0\Hierarchical Inheritance.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Hierarchical Inheritance\bin\Debug\net6.0\Hierarchical Inheritance.pdb
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Hierarchical Inheritance\obj\Debug\net6.0\Hierarchical Inheritance.csproj.AssemblyReference.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Hierarchical Inheritance\obj\Debug\net6.0\Hierarchical Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Hierarchical Inheritance\obj\Debug\net6.0\Hierarchical Inheritance.AssemblyInfoInputs.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Hierarchical Inheritance\obj\Debug\net6.0\Hierarchical Inheritance.AssemblyInfo.cs
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Hierarchical Inheritance\obj\Debug\net6.0\Hierarchical Inheritance.csproj.CoreCompileInputs.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Hierarchical Inheritance\obj\Debug\net6.0\Hierarchical Inheritance.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Hierarchical Inheritance\obj\Debug\net6.0\refint\Hierarchical Inheritance.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Hierarchical Inheritance\obj\Debug\net6.0\Hierarchical Inheritance.pdb
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Hierarchical Inheritance\obj\Debug\net6.0\Hierarchical Inheritance.genruntimeconfig.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Hierarchical Inheritance\obj\Debug\net6.0\ref\Hierarchical Inheritance.dll

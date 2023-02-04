@@ -1,0 +1,15 @@
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Stack of Strings\bin\Debug\net6.0\Stack of Strings.exe
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Stack of Strings\bin\Debug\net6.0\Stack of Strings.deps.json
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Stack of Strings\bin\Debug\net6.0\Stack of Strings.runtimeconfig.json
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Stack of Strings\bin\Debug\net6.0\Stack of Strings.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Stack of Strings\bin\Debug\net6.0\Stack of Strings.pdb
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Stack of Strings\obj\Debug\net6.0\Stack of Strings.csproj.AssemblyReference.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Stack of Strings\obj\Debug\net6.0\Stack of Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Stack of Strings\obj\Debug\net6.0\Stack of Strings.AssemblyInfoInputs.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Stack of Strings\obj\Debug\net6.0\Stack of Strings.AssemblyInfo.cs
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Stack of Strings\obj\Debug\net6.0\Stack of Strings.csproj.CoreCompileInputs.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Stack of Strings\obj\Debug\net6.0\Stack of Strings.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Stack of Strings\obj\Debug\net6.0\refint\Stack of Strings.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Stack of Strings\obj\Debug\net6.0\Stack of Strings.pdb
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Stack of Strings\obj\Debug\net6.0\Stack of Strings.genruntimeconfig.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Stack of Strings\obj\Debug\net6.0\ref\Stack of Strings.dll

@@ -1,0 +1,15 @@
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Demo\bin\Debug\net6.0\Demo.exe
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Demo\bin\Debug\net6.0\Demo.deps.json
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Demo\bin\Debug\net6.0\Demo.runtimeconfig.json
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Demo\bin\Debug\net6.0\Demo.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Demo\bin\Debug\net6.0\Demo.pdb
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Demo\obj\Debug\net6.0\Demo.csproj.AssemblyReference.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Demo\obj\Debug\net6.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Demo\obj\Debug\net6.0\Demo.AssemblyInfoInputs.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Demo\obj\Debug\net6.0\Demo.AssemblyInfo.cs
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Demo\obj\Debug\net6.0\Demo.csproj.CoreCompileInputs.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Demo\obj\Debug\net6.0\Demo.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Demo\obj\Debug\net6.0\refint\Demo.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Demo\obj\Debug\net6.0\Demo.pdb
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Demo\obj\Debug\net6.0\Demo.genruntimeconfig.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Demo\obj\Debug\net6.0\ref\Demo.dll

@@ -1,0 +1,15 @@
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Multiple Inheritance\bin\Debug\net6.0\Multiple Inheritance.exe
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Multiple Inheritance\bin\Debug\net6.0\Multiple Inheritance.deps.json
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Multiple Inheritance\bin\Debug\net6.0\Multiple Inheritance.runtimeconfig.json
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Multiple Inheritance\bin\Debug\net6.0\Multiple Inheritance.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Multiple Inheritance\bin\Debug\net6.0\Multiple Inheritance.pdb
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Multiple Inheritance\obj\Debug\net6.0\Multiple Inheritance.csproj.AssemblyReference.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Multiple Inheritance\obj\Debug\net6.0\Multiple Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Multiple Inheritance\obj\Debug\net6.0\Multiple Inheritance.AssemblyInfoInputs.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Multiple Inheritance\obj\Debug\net6.0\Multiple Inheritance.AssemblyInfo.cs
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Multiple Inheritance\obj\Debug\net6.0\Multiple Inheritance.csproj.CoreCompileInputs.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Multiple Inheritance\obj\Debug\net6.0\Multiple Inheritance.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Multiple Inheritance\obj\Debug\net6.0\refint\Multiple Inheritance.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Multiple Inheritance\obj\Debug\net6.0\Multiple Inheritance.pdb
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Multiple Inheritance\obj\Debug\net6.0\Multiple Inheritance.genruntimeconfig.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Multiple Inheritance\obj\Debug\net6.0\ref\Multiple Inheritance.dll
