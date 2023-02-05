@@ -1,0 +1,15 @@
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Need for Speed\bin\Debug\net6.0\Need for Speed.exe
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Need for Speed\bin\Debug\net6.0\Need for Speed.deps.json
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Need for Speed\bin\Debug\net6.0\Need for Speed.runtimeconfig.json
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Need for Speed\bin\Debug\net6.0\Need for Speed.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Need for Speed\bin\Debug\net6.0\Need for Speed.pdb
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Need for Speed\obj\Debug\net6.0\Need for Speed.csproj.AssemblyReference.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Need for Speed\obj\Debug\net6.0\Need for Speed.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Need for Speed\obj\Debug\net6.0\Need for Speed.AssemblyInfoInputs.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Need for Speed\obj\Debug\net6.0\Need for Speed.AssemblyInfo.cs
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Need for Speed\obj\Debug\net6.0\Need for Speed.csproj.CoreCompileInputs.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Need for Speed\obj\Debug\net6.0\Need for Speed.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Need for Speed\obj\Debug\net6.0\refint\Need for Speed.dll
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Need for Speed\obj\Debug\net6.0\Need for Speed.pdb
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Need for Speed\obj\Debug\net6.0\Need for Speed.genruntimeconfig.cache
+D:\Tai Lieu Cac Mon\1651 Advanced Programming (2)\Slot101112\Demo\Need for Speed\obj\Debug\net6.0\ref\Need for Speed.dll

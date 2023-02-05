@@ -3,17 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{6F506553-71FB-4AA4-8241-84962D97374A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo", "Demo\Demo.csproj", "{6F506553-71FB-4AA4-8241-84962D97374A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{16CA0167-E202-4322-9E32-190C75F94565}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "Inheritance\Inheritance.csproj", "{16CA0167-E202-4322-9E32-190C75F94565}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiple Inheritance", "Multiple Inheritance\Multiple Inheritance.csproj", "{C232D805-BFD3-45E4-B268-68C03292E44B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multiple Inheritance", "Multiple Inheritance\Multiple Inheritance.csproj", "{C232D805-BFD3-45E4-B268-68C03292E44B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hierarchical Inheritance", "Hierarchical Inheritance\Hierarchical Inheritance.csproj", "{857F1350-BC37-43F3-B86A-D4EA45743D5E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hierarchical Inheritance", "Hierarchical Inheritance\Hierarchical Inheritance.csproj", "{857F1350-BC37-43F3-B86A-D4EA45743D5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Random List", "Random List\Random List.csproj", "{613AC3C3-CBD7-46B4-A37D-7617207F4EC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Random List", "Random List\Random List.csproj", "{613AC3C3-CBD7-46B4-A37D-7617207F4EC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack of Strings", "Stack of Strings\Stack of Strings.csproj", "{599414FF-F50E-4D55-91F0-D18E1F38CFB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stack of Strings", "Stack of Strings\Stack of Strings.csproj", "{599414FF-F50E-4D55-91F0-D18E1F38CFB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Person", "Person\Person.csproj", "{24E8213F-2F67-4E72-A28A-9EC01691897F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animal", "Animal\Animal.csproj", "{74581975-E8ED-4D3F-8B54-91F844605CD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Players and Monsters", "Players and Monsters\Players and Monsters.csproj", "{EAFA8C04-FD1E-42BC-AB6F-E1F4D194CD8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Need for Speed", "Need for Speed\Need for Speed.csproj", "{3462243C-9540-4BB1-A04B-521415B95B18}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +53,22 @@ Global
 		{599414FF-F50E-4D55-91F0-D18E1F38CFB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{599414FF-F50E-4D55-91F0-D18E1F38CFB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{599414FF-F50E-4D55-91F0-D18E1F38CFB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24E8213F-2F67-4E72-A28A-9EC01691897F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24E8213F-2F67-4E72-A28A-9EC01691897F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24E8213F-2F67-4E72-A28A-9EC01691897F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24E8213F-2F67-4E72-A28A-9EC01691897F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74581975-E8ED-4D3F-8B54-91F844605CD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74581975-E8ED-4D3F-8B54-91F844605CD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74581975-E8ED-4D3F-8B54-91F844605CD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74581975-E8ED-4D3F-8B54-91F844605CD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAFA8C04-FD1E-42BC-AB6F-E1F4D194CD8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAFA8C04-FD1E-42BC-AB6F-E1F4D194CD8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAFA8C04-FD1E-42BC-AB6F-E1F4D194CD8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAFA8C04-FD1E-42BC-AB6F-E1F4D194CD8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3462243C-9540-4BB1-A04B-521415B95B18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3462243C-9540-4BB1-A04B-521415B95B18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3462243C-9540-4BB1-A04B-521415B95B18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3462243C-9540-4BB1-A04B-521415B95B18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
